@@ -70,6 +70,7 @@ broadcaster:
       numBlocksToWaitForMissingTx: 100
       numBlocksToWaitBeforeInvalidating: 2
   multiInstance: false
+  multiInstanceType: Kafka
   enableBlockNotifications: true
 
 # For Kafka
